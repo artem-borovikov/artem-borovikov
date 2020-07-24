@@ -1,5 +1,5 @@
-### Hi there 👋
-I’m currently working on GraphQL project.
+### Hi there 👋 :rocket: 
+**I’m currently working on GraphQL project.**
 
 <!--
 **rumata1/rumata1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

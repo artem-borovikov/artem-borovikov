@@ -1,2 +1,2 @@
 🤘🏻
-![image](logo.png "Logo")
+![image](./logo.png "Logo")

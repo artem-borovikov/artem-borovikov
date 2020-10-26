@@ -1,2 +1,1 @@
 🤘🏻
-![image](./logo.png "Logo")

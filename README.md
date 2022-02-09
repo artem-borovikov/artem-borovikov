@@ -1,4 +1,4 @@
-Software engineer
+🖥️ Software engineer
 
 Skills:
 - JavaScript/NodeJS
